@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    text-align: center;
+    margin: 200px auto;
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+fieldset {
+    max-width: 150px;
+    text-align: center;
+    margin: 40px auto;
+    border: 1px solid black;
+    padding:10px;
+    background-color: skyblue;
+}
+input{
+    margin-bottom: 5px;
+}
+button{
+    color:white;
+    background-color: black;
+    border: nome;
+}
+button:hover{
+    color:red;
+}
